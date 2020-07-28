@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ba67cdaf938aaaa0eb75",
-    "url": "/petSortingHatNew/static/css/main.fd83850b.chunk.css"
+    "revision": "daf17f5a6415073b41c8",
+    "url": "/petSortingHatNew/static/css/main.a097e5fd.chunk.css"
   },
   {
-    "revision": "ba67cdaf938aaaa0eb75",
-    "url": "/petSortingHatNew/static/js/main.ba67cdaf.chunk.js"
+    "revision": "daf17f5a6415073b41c8",
+    "url": "/petSortingHatNew/static/js/main.daf17f5a.chunk.js"
   },
   {
     "revision": "fa465ae9d376806d1a3e",
@@ -24,7 +24,11 @@ self.__precacheManifest = [
     "url": "/petSortingHatNew/static/media/icon-check.4cffa739.svg"
   },
   {
-    "revision": "c6d9e93cc0ce0859bbd24b3405bca09f",
+    "revision": "7075bd8d89717422b04dcd0927265fc0",
+    "url": "/petSortingHatNew/static/media/husky.7075bd8d.jpg"
+  },
+  {
+    "revision": "c1b49c9742494fc06b269ded108d6a76",
     "url": "/petSortingHatNew/index.html"
   }
 ];
