@@ -1,0 +1,50 @@
+toadd:
+
+compatibility ratio...%
+if too low say don't own a pet
+
+pics
+
+complete the algorithm
+
+
+
+
+
+
+
+pet app:
+	display most common animals and varieties
+	- 100 points to spend? or for appearances, simplicity, character
+			a weight for the weights?
+	weight by: interactive, fluffyness, cost, maintainence/time availabilty, 
+		skill level needed,
+		life span
+		bird vs rodent vs 4 leg
+	TEXT SUMMARY THAT EXPLAINS CHOICES... ML??!
+	show: 
+		rank by top 5 results
+		picture, link to learn more
+		gmap that shows nearest pet store
+	analytics: server- show overall %, and compare to other users...?
+
+Planned features:
+
+UI for users to customize what they are looking for. Using React.
+
+Ranking algorithm that best captures what a user wants.
+
+Displaying results:
+
+Display most common animals and varieties.
+
+Rank by top N results
+
+Picture link to learn more
+
+Map that shows nearest pet store
+
+Text summary that explains each result.
+
+Analytics: show overall %, and compare to other users for fun
+
