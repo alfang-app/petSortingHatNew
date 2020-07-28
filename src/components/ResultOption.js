@@ -1,6 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
+//const images = require.context('../..src/resources', true);
+
 function AnswerOption(props) {
   return (
     <li className="answerOption">
