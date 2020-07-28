@@ -7,6 +7,8 @@ import Result from './components/Result';
 import logo from './svg/hammy.png';
 import './App.css';
 
+//https://alfang-app.github.io/petSortingHatNew/
+
 class App extends Component {
   constructor(props) {
     super(props);

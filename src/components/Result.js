@@ -27,13 +27,17 @@ function Result(props) {
       
      
 
-      
-      
     
-      <ul className="resultOptions">
+<div>
+        
+<strong>Top results:</strong>
+      </div>
+      
+      
+      <ol className="resultOptions">
          
          {props.quizResultOptions.map(renderResultOptions)}
-    </ul>
+    </ol>
  
 
       
